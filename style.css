@@ -1,5 +1,5 @@
     body {
-      display: block;
+      display:inline-block;
       margin: 0;
       height: 100vh;
       display: flex;
